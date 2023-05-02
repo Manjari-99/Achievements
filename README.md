@@ -1,6 +1,6 @@
-# Achievements
+# ==Hackathons and Competitions== 
 ## TechGig Certificates 
-### Semi Finalist in TechGig Code Gladiastors
+### Semi Finalist in TechGig Code Gladiators
 ![image](https://user-images.githubusercontent.com/69254860/235652427-1b554f0b-8a14-4e0b-b04e-f8ce5e7c808a.png)
 ### Ranked 2399 Globally in Machine Learning Contest 2021
 ![image](https://user-images.githubusercontent.com/69254860/235652229-8d269aa2-efdc-490c-b2e0-2516d523fca0.png)
