@@ -1,4 +1,4 @@
-# ==Hackathons and Competitions== 
+# Hackathons and Competitions
 ## TechGig Certificates 
 ### Semi Finalist in TechGig Code Gladiators
 ![image](https://user-images.githubusercontent.com/69254860/235652427-1b554f0b-8a14-4e0b-b04e-f8ce5e7c808a.png)
@@ -11,4 +11,11 @@
 ![image](https://user-images.githubusercontent.com/69254860/235652032-350a0abd-59d6-42bb-90ec-1ea1416f724b.png)
 ### Improved ranking in Google KickStart from Round A to Round E in 2021
 ![image](https://user-images.githubusercontent.com/69254860/235651846-2adcb9a0-06c9-4abe-b14e-766216d909e6.png)
+
+# Certificates of Participation 
+### Walmart CodeHers
+![image](https://user-images.githubusercontent.com/69254860/235654645-75ec27e3-891d-4e64-b842-41c58bf2d8ba.png)
+### Juspay - Think Big with Functional Programming 
+![image](https://user-images.githubusercontent.com/69254860/235654787-3ad3b71a-742e-42a0-b480-4da5ba35320b.png)
+
 
