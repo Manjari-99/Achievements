@@ -1,3 +1,15 @@
+## Training Certificates
+### Under MyWBUT
+#### Data Science Machine Learning and AI using Python under IIT Ropar
+![image](https://user-images.githubusercontent.com/69254860/235833811-f0b469d6-f9b7-4194-833c-e2ea176c1310.png)
+#### Machine Learning with Python under MyWBUT
+![image](https://user-images.githubusercontent.com/69254860/235834123-85636b40-6662-4814-b549-782b3cb38016.png)
+#### Web Development Training under MyWBUT
+![image](https://user-images.githubusercontent.com/69254860/235834182-ef3dab3d-0b82-4420-acd8-f47b1edeab9e.png)
+#### Udemy Web Development BootCamp 2022
+![image](https://user-images.githubusercontent.com/69254860/235833880-b8fb7dde-0dcc-4099-9a97-fb4b2e45965a.png)
+
+
 ## Hackathons and Competitions
 ### TechGig Certificates 
 #### Semi Finalist in TechGig Code Gladiators
